@@ -1,2 +1,6 @@
 fastapi
-uvicorn[standard]
+uvicorn
+motor
+pandas
+python-dateutil
+pydantic
